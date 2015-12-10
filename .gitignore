@@ -7,3 +7,4 @@ xcuserdata
 *.pyc
 Carthage
 Scripts/apple_wwdr.cer
+DerivedData/
